@@ -1,0 +1,216 @@
+/*!
+ * Start Bootstrap - Agency v3.3.7+1 (http://startbootstrap.com/template-overviews/agency)
+ * Copyright 2013-2016 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ */
+
+body {
+  overflow-x: hidden;
+  font-family: 'Lekton', sans-serif;
+  font-family: 'Work Sans', sans-serif;
+}
+.text-muted {
+  color: #777777;
+}
+.text-primary {
+  color: #fcc900;
+}
+p {
+  font-size: 30px;
+  line-height: 1.75;
+  font-family: 'Lekton', sans-serif;
+  text-align: left;
+}
+a,
+a:hover,
+a:focus,
+a:active,
+a.active {
+  outline: none;
+}
+a {
+  color: #fcc900;
+}
+a:hover,
+a:focus,
+a:active,
+a.active {
+  color: #fcc900;
+}
+h1
+ {
+font-family: 'Work Sans', sans-serif;
+  font-weight: 800;
+  font-size: 90px;
+  color: white;
+  padding-bottom: 0px;
+  padding-top: 5px;
+
+}
+
+/*bianco sporco*/
+.bg-light-gray {
+  background-color: #efe9e3;
+}
+.bg-darkest-gray {
+  background-color: #efe9e3;
+}
+
+
+.tabella { 
+  background-color: #fcc900; 
+}
+/*genere voti tabella ines.*/
+.tabella th{ 
+  font-family: 'Lekton', sans-serif;
+  font-size: 10px; 
+  color: #fcc900;
+
+}
+
+
+.generimusicali {
+    font-family: 'Lekton', sans-serif;
+    font-size: 50PX;
+    color: white;
+    padding-left: 60px;
+    font-weight: 700;
+    line-height: 110%;
+}
+.numeri {
+    font-family: 'Lekton', sans-serif;
+    font-size: 50PX;
+    color: white;
+    padding-left: 250px;
+    font-weight: 700;
+    line-height: 110%;
+}
+@media (min-width: 768px) {
+  header .intro-text {
+    padding-top: 400px;
+    padding-bottom: 200px;
+  }
+}
+section {
+  padding: 100px 0;
+}
+
+
+@media (min-width: 768px) {
+  section {
+
+  }
+}
+
+footer {
+  text-align: left;
+  background-color: #fcc900;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+
+::-moz-selection {
+  text-shadow: none;
+  background: #fcc900;
+}
+::selection {
+  text-shadow: none;
+  background: #fcc900;
+}
+img::selection {
+  background: transparent;
+}
+img::-moz-selection {
+  background: transparent;
+}
+body {
+  webkit-tap-highlight-color: #fcc900
+}
+
+
+/* barra di navigazione*/
+
+.navbar-custom {
+  background-color: black;
+  border-color: transparent;
+}
+.navbar-custom .navbar-brand {
+  color: white;
+  font-family: 'Work Sans', sans-serif;
+  font-weight: 'bold';
+}
+.navbar-custom .navbar-brand:hover,
+.navbar-custom .navbar-brand:focus,
+.navbar-custom .navbar-brand:active,
+.navbar-custom .navbar-brand.active {
+  color: #fcc900;
+}
+.navbar-custom .navbar-collapse {
+  border-color: rgba(255, 255, 255, 0.02);
+}
+.navbar-custom .navbar-toggle {
+  background-color: #fcc900;
+  border-color: #fcc900;
+ font-family: 'Work Sans', sans-serif;
+  font-family: 'Lekton', sans-serif;
+  text-transform: uppercase;
+  color: white;
+  font-size: 12px;
+}
+.navbar-custom .navbar-toggle:hover,
+.navbar-custom .navbar-toggle:focus {
+  background-color: #fcc900;
+}
+.navbar-custom .nav li a {
+  font-family: 'Work Sans', sans-serif;
+  font-family: 'Lekton', sans-serif;
+  text-transform: uppercase;
+  font-weight: 400;
+  letter-spacing: 1px;
+  color: white;
+}
+.navbar-custom .nav li a:hover,
+.navbar-custom .nav li a:focus {
+  color: #fcc900;
+  outline: none;
+}
+.navbar-custom .navbar-nav > .active > a {
+  border-radius: 0;
+  color: white;
+  background-color: #fcc900;
+}
+.navbar-custom .navbar-nav > .active > a:hover,
+.navbar-custom .navbar-nav > .active > a:focus {
+  color: white;
+  background-color: #fcc900;
+}
+@media (min-width: 768px) {
+  .navbar-custom {
+    background-color: transparent;
+    padding: 25px 0;
+    -webkit-transition: padding 0.3s;
+    -moz-transition: padding 0.3s;
+    transition: padding 0.3s;
+    border: none;
+  }
+  .navbar-custom .navbar-brand {
+    font-size: 2em;
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    transition: all 0.3s;
+  }
+  .navbar-custom .navbar-nav > .active > a {
+    border-radius: 3px;
+  }
+}
+@media (min-width: 768px) {
+  .navbar-custom.affix {
+    background-color: #fcc900;
+    padding: 10px 0;
+  }
+  .navbar-custom.affix .navbar-brand {
+    font-size: 1.5em;
+  }
+}
+

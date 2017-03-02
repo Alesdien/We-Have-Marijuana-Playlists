@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 848 500" style="enable-background:new 0 0 848 500;" xml:space="preserve">
+<style type="text/css">
+	.cst0{fill:#FCC900;}
+	.cst1{fill:none;stroke:#FFFFFF;stroke-width:7;}
+	.cst2{fill:#FFFFFF;}
+	.ccst3{font-family:'Lekton-Bold';}
+	.cst4{font-size:23px;}
+	.cst5{clip-path:url(#SVGID_2_);}
+	.cst6{fill:#FCC900;stroke:#FFFFFF;stroke-width:7;}
+	.cst7{fill:none;stroke:#FFFFFF;stroke-width:7;stroke-miterlimit:10;}
+	.cst8{clip-path:url(#SVGID_6_);}
+	.cst9{clip-path:url(#SVGID_8_);}
+	.cst10{clip-path:url(#SVGID_10_);}
+	.cst11{clip-path:url(#SVGID_12_);}
+	.cst12{clip-path:url(#SVGID_14_);}
+</style>
+<g id="edmfoto6">
+	<g>
+		<g>
+			
+				<image style="overflow:visible;enable-background:new    ;" width="2556" height="1072" xlink:href="img/edm.png"  transform="matrix(0.133 0 0 0.133 127.888 4.9172)">
+			</image>
+		</g>
+	</g>
+</g>
+<g id="edmgiallo6" transform="translate(199,5)">
+	<rect x="0.5" y="0.5" class="cst0" width="182" height="142"/>
+</g>
+<g id="edm6" transform="translate(199,5)">
+	<rect x="0.5" y="0.5" class="cst1" width="182" height="142"/>
+	<text transform="matrix(1 0 0 1 74.2498 75.35)" class="cst2 cst3 cst4">EDM</text>
+</g>
+<g id="rockfoto6">
+	<g>
+		<g>
+			<defs>
+				<rect id="SVGID_1_" x="199.5" y="147.5" width="182" height="348"/>
+			</defs>
+			<clipPath id="SVGID_2_">
+				<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+			</clipPath>
+			<g class="cst5">
+				
+					<image style="overflow:visible;enable-background:new    ;" width="2482" height="1196" xlink:href="img/rock.png"  transform="matrix(0.2947 0 0 0.2947 -58.591 147.5)">
+				</image>
+			</g>
+		</g>
+	</g>
+</g>
+<g id="rockgiallo6" transform="translate(199,147)">
+	<rect x="0.5" y="0.5" class="cst6" width="182" height="348"/>
+	<title>Rock/Indie/Metal: 54</title>
+</g>
+<g id="rock6" transform="translate(199,147)">
+	<rect x="0.5" y="0.5" class="cst1" width="182" height="348"/>
+	<text transform="matrix(1 0 0 1 68.5002 178.35)" class="cst2 cst3 cst4">Rock</text>
+</g>
+<g id="jazzfoto6">
+	<defs>
+		<rect id="SVGID_3_" x="5.5" y="363.5" width="194" height="132"/>
+	</defs>
+	<clipPath id="SVGID_4_">
+		<use xlink:href="#SVGID_3_"  style="overflow:visible;"/>
+	</clipPath>
+	<g transform="matrix(1 0 0 1 0 0)" style="clip-path:url(#SVGID_4_);">
+		
+			<image style="overflow:visible;" width="1854" height="1338" xlink:href="img/jazz.png"  transform="matrix(0.102 0 0 0.102 7.9294 363.5)">
+		</image>
+	</g>
+	<use xlink:href="#SVGID_3_"  style="overflow:visible;fill:none;stroke:#FFFFFF;stroke-width:7;stroke-miterlimit:10;"/>
+</g>
+<g id="jazzgiallo6" transform="translate(5,363)">
+	<rect x="0.5" y="0.5" class="cst0" width="194" height="132"/>
+</g>
+<g id="jazz6">
+	<rect x="5.5" y="363.5" class="cst7" width="194" height="132"/>
+	<text transform="matrix(1 0 0 1 79.5002 433.35)" class="cst2 cst3 cst4">Jazz</text>
+</g>
+<g id="hiphopfoto6">
+	<g>
+		<g>
+			<defs>
+				<rect id="SVGID_5_" x="381.5" y="5.5" width="462" height="490"/>
+			</defs>
+			<clipPath id="SVGID_6_">
+				<use xlink:href="#SVGID_5_"  style="overflow:visible;"/>
+			</clipPath>
+			<g class="cst8">
+				
+					<image style="overflow:visible;enable-background:new    ;" width="2396" height="1318" xlink:href="img/hiphop.png"  transform="matrix(0.371 0 0 0.371 204.5606 5.5)">
+				</image>
+			</g>
+		</g>
+	</g>
+</g>
+<g id="hiphopgiallo6">
+	<rect x="381.5" y="5.5" class="cst0" width="462" height="490"/>
+</g>
+<g id="hiphop6">
+	<rect x="381.5" y="5.5" class="cst7" width="462" height="490"/>
+	<text transform="matrix(1 0 0 1 572.2505 253.2887)" class="cst2 cst3 cst4">Hip-hop</text>
+</g>
+<g id="reggaefoto6">
+	<g>
+		<g>
+			<defs>
+				<rect id="SVGID_7_" x="5.5" y="254.5" width="194" height="109"/>
+			</defs>
+			<clipPath id="SVGID_8_">
+				<use xlink:href="#SVGID_7_"  style="overflow:visible;"/>
+			</clipPath>
+			<g transform="matrix(1 0 0 1 0 -1.525879e-05)" class="cst9">
+				
+					<image style="overflow:visible;enable-background:new    ;" width="2132" height="1404" xlink:href="img/reggae.png"  transform="matrix(8.910783e-02 0 0 8.910783e-02 7.511 246.4463)">
+				</image>
+			</g>
+		</g>
+	</g>
+</g>
+<g id="reggaegiallo6">
+	<rect x="5.5" y="254.5" class="cst6" width="194" height="109"/>
+</g>
+<g id="reggae6">
+	<rect x="5.5" y="254.5" class="cst1" width="194" height="109"/>
+	<text transform="matrix(1 0 0 1 68.0002 312.85)" class="cst2 cst3 cst4">Reggae</text>
+</g>
+<g id="rbfoto6">
+	<g>
+		<g>
+			<defs>
+				<rect id="SVGID_9_" x="5.5" y="5.5" width="194" height="79"/>
+			</defs>
+			<clipPath id="SVGID_10_">
+				<use xlink:href="#SVGID_9_"  style="overflow:visible;"/>
+			</clipPath>
+			<g class="cst10">
+				
+					<image style="overflow:visible;enable-background:new    ;" width="1280" height="720" xlink:href="img/rb.jpg"  transform="matrix(0.1534 0 0 0.1534 4.3264 -12.1591)">
+				</image>
+			</g>
+		</g>
+	</g>
+</g>
+<g id="rbgiallo6">
+	<rect x="5.5" y="5.5" class="cst6" width="194" height="79"/>
+</g>
+<g id="rb6">
+	<rect x="5.5" y="5.5" class="cst1" width="194" height="79"/>
+	<text transform="matrix(1 0 0 1 85.2498 48.85)" class="cst2 cst3 cst4">R&amp;B</text>
+</g>
+<g id="countryfoto6">
+	<g>
+		<g>
+			<defs>
+				<rect id="SVGID_11_" x="5.5" y="84.5" width="194" height="85"/>
+			</defs>
+			<clipPath id="SVGID_12_">
+				<use xlink:href="#SVGID_11_"  style="overflow:visible;"/>
+			</clipPath>
+			<g class="cst11">
+				
+					<image style="overflow:visible;enable-background:new    ;" width="2560" height="1290" xlink:href="img/country.png"  transform="matrix(7.393529e-02 0 0 7.393529e-02 8.5 75.2456)">
+				</image>
+			</g>
+		</g>
+	</g>
+</g>
+<g id="countrygiallo6" transform="translate(5,84)">
+	<rect x="0.5" y="0.5" class="cst6" width="194" height="85"/>
+</g>
+<g id="country6" transform="translate(5,84)">
+	<rect x="0.5" y="0.5" class="cst1" width="194" height="85"/>
+	<text transform="matrix(1 0 0 1 57.2502 46.85)" class="cst2 cst3 cst4">Country</text>
+</g>
+<g id="bluesfoto6">
+	<g>
+		<g>
+			<defs>
+				<rect id="SVGID_13_" x="5.5" y="169.5" width="194" height="85"/>
+			</defs>
+			<clipPath id="SVGID_14_">
+				<use xlink:href="#SVGID_13_"  style="overflow:visible;"/>
+			</clipPath>
+			<g transform="matrix(1 0 0 1 0 -7.629395e-06)" class="cst12">
+				
+					<image style="overflow:visible;enable-background:new    ;" width="1250" height="1230" xlink:href="img/blues.png"  transform="matrix(0.1552 0 0 0.1552 5.5 116.0365)">
+				</image>
+			</g>
+		</g>
+	</g>
+</g>
+<g id="bluesgiallo6" transform="translate(5,169)">
+	<rect x="0.5" y="0.5" class="cst6" width="194" height="85"/>
+</g>
+<g id="blues6" transform="translate(5,169)">
+	<rect x="0.5" y="0.5" class="cst1" width="194" height="85"/>
+	<text transform="matrix(1 0 0 1 67.0001 47.5609)" class="cst2 cst3 cst4">Blues</text>
+</g>
+</svg>
